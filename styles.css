@@ -87,6 +87,10 @@ body {
   font-weight: 500;
   margin-top: 25px;
 }
+.home-btn a {
+  text-decoration: none;
+  color: #fff;
+}
 
 .home-btn:hover,
 .about-btn:hover {
